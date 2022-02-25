@@ -43,7 +43,7 @@ class Accordion extends Component {
         disabled={disabled}
       >
         <div
-          className={themes('Accordion__header', theme)}
+          className={themes('Accordion__header111', theme)}
           onClick={this.handleClick}
         >
           <div className={'Accordion__title'}>{title}</div>
